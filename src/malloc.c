@@ -1,3 +1,8 @@
+/* malloc.c
+ * function defines for malloc implements
+ * Author: Yilin Liu
+ */
+
 #include <sys/mman.h>
 #include "bool.h"
 #include "malloc.h"
