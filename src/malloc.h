@@ -1,3 +1,8 @@
+/* malloc.h
+ * implementations for memory reserve functions
+ * Author: Yilin Liu
+ */
+
 #ifndef __MALLOC__
 #define __MALLOC__
 
